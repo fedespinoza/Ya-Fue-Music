@@ -120,7 +120,7 @@ section#discografia h2 {
 
 
 .disk:hover {
-  transform: scale(1.1, 1.1);
+  transform: scale(1.05, 1.05);
   transition: all .6s ease; }
 
 .imagenDisco1 {
